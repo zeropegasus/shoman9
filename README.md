@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoman9
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Unix and Java
-- 📫 How to reach me: don't :)
+- 📫 How to reach me: shoman@luc.edu
 
 <!---
 shoman9/shoman9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
