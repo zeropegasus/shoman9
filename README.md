@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shoman9
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Unix and Java
+- 🌱 I’m currently learning C
 - 📫 How to reach me: shoman@luc.edu
 
 <!---
