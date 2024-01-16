@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shoman9
+- 👋 Hi, I’m @zeropegasus
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning C
 - 📫 How to reach me: shoman@luc.edu
